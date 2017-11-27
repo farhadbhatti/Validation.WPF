@@ -1,0 +1,17 @@
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\obj\Debug\CGI.Validation.WPF.csprojResolveAssemblyReference.cache
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\obj\Debug\CGI.Validation.WPF.csproj.CoreCompileInputs.cache
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\CGI.Validation.WPF.dll.config
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\CGI.Validation.WPF.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\CGI.Validation.WPF.pdb
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Core.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Linq.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Core.xml
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Linq.xml
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\obj\Debug\CGI.Validation.WPF.dll
+C:\Users\BHATTI\Documents\Visual Studio 2017\Projects\CGI.Validation.WPF\CGI.Validation.WPF\obj\Debug\CGI.Validation.WPF.pdb
